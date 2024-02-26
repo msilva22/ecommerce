@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => null,
+        'reference' => 'f0851c25c4560e3523324ccecb4d35400fcc7a80',
         'name' => 'msilva22/ecommerce',
         'dev' => true,
     ),
     'versions' => array(
         'msilva22/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => null,
+            'reference' => 'f0851c25c4560e3523324ccecb4d35400fcc7a80',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
